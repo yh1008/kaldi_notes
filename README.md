@@ -1,4 +1,5 @@
 ## Speech Data Augmentation
+### Author: Wanting Wang
 ### Kaldi: [reverberate_data_dir.py](https://github.com/kaldi-asr/kaldi/blob/master/egs/wsj/s5/steps/data/reverberate_data_dir.py)
 - path: kaldi/egs/wsj/s5/steps/data/reverberate_data_dir.py
 - usage: reverberate_data_dir.py [options...] <in-data-dir> <out-data-dir>
